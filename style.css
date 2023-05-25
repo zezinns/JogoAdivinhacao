@@ -49,6 +49,10 @@ a{
 	margin:10px;
 	margin-left:115px;
 }
+main {
+	display: flex;
+   	 flex-wrap: wrap;
+}
 button {
   font-weight: bold;
   color: white;
@@ -167,11 +171,11 @@ section{
     border-radius: 3px;
     margin: 0px;
     padding: 10px;
-    max-width: 700px;
+    max-width: 400px;
 	margin-top:60px;
-	margin-left:300px;
 	border-radius:8px;
 	text-align:center;
+	
 	
 	
 	
